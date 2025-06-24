@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer from Bokaro</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/vivek6201/count.svg" alt="visitor counter"/>
+  <img src="https://profile-counter.glitch.me/vivekyadav5750/count.svg" alt="visitor counter"/>
 </p>
 
 ---
