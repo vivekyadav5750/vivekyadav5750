@@ -10,9 +10,12 @@
 
 ###
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/vivekyadav5750/count.svg" alt="visitor counter"/>
-</p>
+<!--  <p align="center"> -->
+<!--   <img src="https://profile-counter.glitch.me/vivekyadav5750/count.svg" alt="visitor counter"/> -->
+<!-- </p> -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vivekyadav5750.vivekyadav5750&"  />
+</div>
 
 ---
 
