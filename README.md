@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vivek!</h1>
-<h3 align="center">Full Stack Developer from Bokaro</h3>
+<!-- <h3 align="center">Full Stack Developer from Bokaro</h3> -->
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 🔭 I’m working as Fullstack Developer<br>- 📚 I'm currently learning GEN AI<br>- ⚡ In my free time I Dive into game development as a way to apply my coding skills creatively.</p>
+
+###
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/vivekyadav5750/count.svg" alt="visitor counter"/>
@@ -36,6 +45,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekyadav5750&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vivekyadav5750&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekyadav5750&theme=github-dark&area=true&hide_border=true" height="220" alt="activity-graph graph"  />
+</div>
+
+###
+
+###
+
+<img src="https://raw.githubusercontent.com/dhrubobarman/dhrubobarman/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 
 ## 🌐 Connect with Me
