@@ -54,13 +54,13 @@
 </div>
 
 ---
-
+<!-- 
 ## 🐍 Fun Stuff
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/dhrubobarman/dhrubobarman/output/snake.svg" alt="Snake animation" />
 </div>
-
+-->
 ---
 
 ## 🌐 Connect with Me
