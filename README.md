@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
 </p>
-
+<!-- 
 ---
 
 ## 📊 GitHub Stats
@@ -52,7 +52,7 @@
   <img src="https://streak-stats.demolab.com?user=vivekyadav5750&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" height="220" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekyadav5750&theme=github-dark&area=true&hide_border=true" alt="activity graph" height="220"/>
 </div>
-
+-->
 ---
 <!-- 
 ## 🐍 Fun Stuff
